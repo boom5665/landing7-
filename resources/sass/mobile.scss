@@ -134,7 +134,7 @@
         }
 
         .font-crow {
-            font-size: 5.125vmin;
+            font-size: 4.125vmin;
             margin-top: 10px;
         }
 
@@ -234,7 +234,7 @@
 
             .tana {
                 margin: 5px 5px 5px 5px;
-                width: 14vmin;
+                width: 13vmin;
             }
         }
 
@@ -302,7 +302,7 @@
         }
 
         .card-text {
-            font-size: 3vmin;
+            font-size: 2vmin;
         }
 
         .card-body {
@@ -323,7 +323,7 @@
                 flex-direction: column;
                 justify-content: center;
                 align-items: center;
-                font-size: 4vmin;
+                font-size: 3vmin;
             }
         }
 
@@ -408,8 +408,18 @@
                 font-size: 7vmin;
             }
         }
+        .icon-cont {
+            display: flex;
+            justify-content: center;
 
-
+            .icon-cont-p {
+                padding: 10px;
+            }
+        }
+        .width-icon{
+            width: 40vmin;
+            padding: 10px;
+        }
     }
 
     @media screen and (min-device-width: 100px) and (max-device-width: 321px) {
@@ -450,14 +460,7 @@
 
         }
 
-        .icon-cont {
-            display: flex;
-            justify-content: center;
 
-            .icon-cont-p {
-                padding: 10px;
-            }
-        }
 
 
     }

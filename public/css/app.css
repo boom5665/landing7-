@@ -852,7 +852,7 @@ footer {
     display: none;
   }
   .index .font-crow {
-    font-size: 5.125vmin;
+    font-size: 4.125vmin;
     margin-top: 10px;
   }
   .index .size {
@@ -931,7 +931,7 @@ footer {
   }
   .index .box-tex2 .tana {
     margin: 5px 5px 5px 5px;
-    width: 14vmin;
+    width: 13vmin;
   }
   .index .d-row {
     --bs-gutter-x: 0rem;
@@ -983,7 +983,7 @@ footer {
     height: 110px;
   }
   .index .card-text {
-    font-size: 3vmin;
+    font-size: 2vmin;
   }
   .index .card-body {
     height: 230px;
@@ -1003,7 +1003,7 @@ footer {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: 4vmin;
+    font-size: 3vmin;
   }
   .index .dis-qrM {
     display: flex;
@@ -1075,6 +1075,17 @@ footer {
   .index .mobile-bottom-nav .fab {
     font-size: 7vmin;
   }
+  .index .icon-cont {
+    display: flex;
+    justify-content: center;
+  }
+  .index .icon-cont .icon-cont-p {
+    padding: 10px;
+  }
+  .index .width-icon {
+    width: 40vmin;
+    padding: 10px;
+  }
 }
 @media screen and (min-device-width: 100px) and (max-device-width: 321px) {
   .index .cop-font {
@@ -1103,13 +1114,6 @@ footer {
   }
   .index .box-con-slide {
     font-size: 5vmin !important;
-  }
-  .index .icon-cont {
-    display: flex;
-    justify-content: center;
-  }
-  .index .icon-cont .icon-cont-p {
-    padding: 10px;
   }
 }
 @media screen and (min-device-width: 322px) and (max-device-width: 500px) {

@@ -276,7 +276,7 @@
 
         </div>
         <div class="col-12 dis-qrM">
-            <img class="" src="{{ url('/images/qr.png') }}" alt="Image" />
+            <img class="width-icon" src="{{ url('/images/qr.png') }}" alt="Image" />
         </div>
         <div class="col-12 ">
             <div class="dis-crow-p">
@@ -482,7 +482,7 @@
                 </div>
             </div>
             <div class="col-12 dis-qrM">
-                <img class="" src="{{ url('/images/Banner-Mo1.png') }}" alt="Image" />
+                <img class="width-icon" src="{{ url('/images/Banner-Mo1.png') }}" alt="Image" />
             </div>
         </div>
 
@@ -619,12 +619,12 @@
                 </div>
             </div>
             <div class="col-12 dis-qrM">
-                <img class="" src="{{ url('/images/Banner-Mo2.png') }}" alt="Image" />
+                <img class="width-icon" src="{{ url('/images/Banner-Mo2.png') }}" alt="Image" />
             </div>
         </div>
         <div class="d-flex col-12 aos-init aos-animate row"
             style="padding: 0px 0px 70px 0px; justify-content: center; " data-aos="fade-up">
-            <div class="col-11 col-xxl-6 gradient-contact">
+            <div class="col-11 col-md-7 col-xxl-6 gradient-contact">
                 <div class="box-tex2">
                     <div class="box-tex-con">ฝาก - ถอน 24 ชม. </div>
                     <div class="box-tex-in">
@@ -642,7 +642,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-9 col-xxl-3 contract">
+            <div class="col-9 col-md-5 col-xxl-3 contract">
                 <div class="box-tex">
                     <div class="box-tex-con">ติดต่อเรา</div>
                     <div class="box-tex-in">
