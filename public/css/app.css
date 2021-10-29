@@ -31,7 +31,7 @@ footer {
 }
 
 .index a {
-  color: white;
+  color: gray;
   text-decoration: none;
   display: inline-block;
 }
@@ -1055,7 +1055,6 @@ footer {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    color: gray;
   }
   .index .mobile-bottom-nav__item--active {
     color: black;
@@ -1066,7 +1065,6 @@ footer {
     display: flex;
     flex-direction: column;
     margin: 10px;
-    color: gray;
   }
   .index .mobile-bottom-nav .fas {
     font-size: 7vmin;
